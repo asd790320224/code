@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MyServerlet:war exploded" />
+      <artifact name="MyWeb" />
+      <artifact name="test" />
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53ca901e-0ca6-4b62-a20b-8677b94bcc6a" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyServerlet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MyWeb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/el_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsp_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/MyServerlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/BuyItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/CheckDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/DeleteItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/Insert/InsertAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/Insert/ProductUploadServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/src/Select/SelectRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/admin.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/customers.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/logout_temp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/merchants.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/product_delete_temp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/product_insert_temp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/product_manage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/product_manage_flash.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/product_trade_show.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/product_upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/register_check.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/register_success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/role_choose_temp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/updateProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyServerlet/web/updateQuantity.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebDemo.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IXVY2vFO88uJ0vUtKPa1bEIWAC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/tomcat/commons-io-2.11.0/commons-io-2.11.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20689656&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YG\IdeaProjects\WebDemo\MyServerlet\web\TEMP" />
+      <recent name="C:\Users\YG\IdeaProjects\WebDemo\MyServerlet\src" />
+      <recent name="C:\Users\YG\IdeaProjects\WebDemo\MyServerlet\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat9.0">
+    <configuration name="Insert.InsertSQL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Insert.InsertSQL" />
+      <module name="MyServerlet" />
+      <option name="VM_PARAMETERS" value="&quot;-Djava.security.properties=D:\chs\security&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hello.jsp" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/MyServerlet_war_exploded/Hello.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat9.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.70" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="17">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/login.jsp" />
+      <option name="COMMON_VM_ARGUMENTS" value="&quot;-Djava.security.properties=C:\chs\security&quot;" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="MyServerlet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="15f2176c-4ed5-4403-91fc-35a0a2a8df95" />
+      </server-settings>
+      <log_file alias="Tomcat Manager 日志" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
+      <log_file alias="Tomcat Host Manager 日志" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" />
+      <log_file alias="Tomcat Localhost Access 日志" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost_access_log.*" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51740" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyServerlet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9.0.70" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <deployment>
+        <artifact name="MyServerlet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/MyServerlet_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="9bcb4918-ebbe-48ec-809b-af4e6df96f52" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55751" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyServerlet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript 调试.Hello.jsp" />
+      <item itemvalue="Tomcat 服务器.Tomcat9.0" />
+      <item itemvalue="Tomcat 服务器.index.jsp" />
+      <item itemvalue="应用程序.Insert.InsertSQL" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Insert.InsertSQL" />
+        <item itemvalue="Tomcat 服务器.index.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="53ca901e-0ca6-4b62-a20b-8677b94bcc6a" name="变更" comment="" />
+      <created>1670327960451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670327960451</updated>
+      <workItem from="1670327961553" duration="6314000" />
+      <workItem from="1670399686558" duration="658000" />
+      <workItem from="1670825131394" duration="1294000" />
+      <workItem from="1670827526568" duration="3392000" />
+      <workItem from="1670899944342" duration="11195000" />
+      <workItem from="1670961752856" duration="17000" />
+      <workItem from="1670998966898" duration="1164000" />
+      <workItem from="1671000409256" duration="1755000" />
+      <workItem from="1671002176686" duration="720000" />
+      <workItem from="1671003835884" duration="7608000" />
+      <workItem from="1671018659013" duration="874000" />
+      <workItem from="1671019542396" duration="11622000" />
+      <workItem from="1671166785491" duration="23580000" />
+      <workItem from="1671275677536" duration="12683000" />
+      <workItem from="1671295800897" duration="12984000" />
+      <workItem from="1671343010595" duration="20524000" />
+      <workItem from="1671369439174" duration="3625000" />
+      <workItem from="1671378843038" duration="1977000" />
+      <workItem from="1671426585994" duration="35294000" />
+      <workItem from="1671511982236" duration="689000" />
+      <workItem from="1671516174605" duration="4055000" />
+      <workItem from="1671533381428" duration="6780000" />
+      <workItem from="1671553784753" duration="5931000" />
+      <workItem from="1671604505085" duration="9662000" />
+      <workItem from="1671625318926" duration="7511000" />
+      <workItem from="1671645528569" duration="129000" />
+      <workItem from="1671645725396" duration="197000" />
+      <workItem from="1671647204226" duration="672000" />
+      <workItem from="1671649716956" duration="1737000" />
+      <workItem from="1682949100521" duration="21092000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="WebDemo" type="b2602c69:ProjectViewProjectNode" />
+        <item name="WebDemo" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="WebDemo" type="b2602c69:ProjectViewProjectNode" />
+        <item name="WebDemo" type="462c0819:PsiDirectoryNode" />
+        <item name="MyServerlet" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
