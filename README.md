@@ -16,7 +16,8 @@
     updateProduct.jsp: 接收管理页面通过表单-POST的方式传来的值，然后直接连接数据库根据获得的值对商品信息进行修改，然后返回product_manage.jsp。
     updateQuantity.jsp: 买家购物车中的商品的数量是可更替的，通过该jsp实现购物车中所选商品数量的改变，然后返回customers.jsp。
     role_choose_temp.jsp：用户点击左上方个人信息后，根据用户类型判断返回customers.jsp还是merchants.jsp。
-    sale_prediction.jsp：在数据报表网页上（基于已购数据表）的拓展功能，用于分析某一商品（由商品id确定唯一性）的近期售况和总售况，用于分析商品的未来销售情况
+    sale_prediction.jsp：在数据报表网页上（基于已购数据表）的拓展功能，用于分析某一商品（由商品id确定唯一性）的近期售况和总售况，用于分析商品的未来销售情况。该页面如下图所示：![TE73{00IQN1C~}`3LF${8ZD](https://user-images.githubusercontent.com/121183108/236453246-024c6cb6-3f94-4414-b67a-d2faeba4b825.png)
+    
     data_record.jsp：针对销售方而言，可以手动保存该次登录的操作，记录为操作日志，可设置为登出后自动执行。
     user_analysis.jsp：尚未完全实现，实现基础在于给商品标签化，然后根据商品的标签化给已经购入商品的用户进行标签化，实现用户画像的确立，并通过双方的标签联系建立商品推荐系统。
     另外src配置了几个.java文件，其中Servlet类型有AddToCart，BuyItem，CheckDelivery，DeleteItem和LoginServlet。信息传递方式全是通过重写doPOST。
@@ -28,3 +29,4 @@
     Record：在Login和Logout中使用，用于记录用户IP和操作时间
     另外有InsertAccount和SelectRegister：后者用于判断注册时填写的用户名、邮箱有无重复，后者用于把可注册的数据填入数据库。
     各jsp和各java文件大体作用如上，还有一些其他代码譬如：Cookies实现用户登录状态在个页面的传递、<script>中定义function搭配表单的onclick来检测表单中输入的数据格式是否正确、其余大数据信息记录以及对所记录数据进行分析等。
+
